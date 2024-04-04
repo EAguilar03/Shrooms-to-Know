@@ -1,0 +1,23 @@
+body {
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+} 
+.btn2 img {
+    position: fixed;
+    width: 80px;
+    bottom: 135px;
+    right: 600px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+.btn3 img {
+    position: fixed;
+    top: 20px;
+    right: 50px;
+    width: 80px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+} 
